@@ -1,8 +1,5 @@
 package com.Lesley_lc.LinkedList;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
-
 public class ex86_2 {
 
     // Definition for singly-linked list.
